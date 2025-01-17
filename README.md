@@ -1,25 +1,19 @@
 
-# Landing Page with React 🍩
+# Landing Page with React
 
 Este repositório contém o código-fonte de uma landing page moderna e atraente para promover donuts deliciosos, construída com **React**.
 
-## 🖼️ Preview
-
-Dê uma olhada no design interativo e responsivo da página acessando a demonstração [aqui](#). *(Substitua com o link da demo quando disponível)*
-
-## ✨ Funcionalidades
+## Funcionalidades e Tecnologias
 
 - **Design Responsivo**: Compatível com dispositivos móveis, tablets e desktops.
 - **Animações Suaves**: Elementos interativos com transições atraentes.
 - **Seções Dinâmicas**: Informações sobre produtos, depoimentos de clientes e formulário de contato.
 
-## 🛠️ Tecnologias Utilizadas
-
 - **React**: Biblioteca principal para construção da interface.
 - **Styled Components**: Estilização de componentes para uma experiência visual aprimorada.
 - **Vite**: Ferramenta de desenvolvimento rápida e eficiente.
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 1. **Clone este repositório**:
    ```bash
@@ -44,7 +38,7 @@ Dê uma olhada no design interativo e responsivo da página acessando a demonstr
 5. **Acesse a aplicação**:
    Abra o navegador em [http://localhost:5173](http://localhost:5173).
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 Landing-Page-with-React/
