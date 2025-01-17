@@ -1,6 +1,4 @@
-Aqui está um exemplo de README para o repositório **Landing-Page-with-React**: 
 
-```markdown
 # Landing Page with React 🍩
 
 Este repositório contém o código-fonte de uma landing page moderna e atraente para promover donuts deliciosos, construída com **React**.
@@ -68,4 +66,3 @@ Landing-Page-with-React/
 <div align="center">
   Feito por Augusto Almondes(https://github.com/AugustoAlmondes)
 </div>
-```
