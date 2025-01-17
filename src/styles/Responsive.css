@@ -1,0 +1,126 @@
+@media screen and (max-width: 800px) {
+    .nav-logo {
+        max-width: 100px;
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    .nav-bar-menu-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 25px;
+    }
+
+    .banner-image{
+        max-width: 450px;
+        transform: rotate(10deg);
+    }
+
+    .home-primary-image{
+        margin: 0;
+    }
+
+    .home-primary-image img {
+        width: 400px;
+        margin: 0;
+        height: 320px;
+        object-fit: cover;
+        margin-left: 5px;
+    }
+
+    .home-banner-container,
+    .about-section-container {
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .about-section-container {
+        flex-direction: column;
+    }
+
+    .about-section-container{
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .about-buttons-container{
+        margin-left: 0rem !important;
+        margin-top: 1rem;
+        font-size: 1rem !important;
+    }
+
+    .home-image-section,
+    .about-section-image-container {
+        width: 100%;
+        max-width: 450px;
+    }
+
+    .about-background-image-container img,
+    .about-section-image-container img {
+        /* margin: -150px 0 5px 0; */
+        display: none;
+    }
+
+    .primary-heading {
+        text-align: center;
+        max-width: 90%;
+        line-height: 60px;
+        text-align: left;
+    }
+
+    .primary-text {
+        text-align: center;
+        max-width: 80%;
+    }
+
+    .primary-subheading
+    {
+        text-align: center;
+    }
+
+    .banner-text, .about-section-text-container{
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+        margin-left: 0 !important;
+    }
+
+    .secondary-button{
+        font-size: 1rem;
+        padding: 0.8rem 2rem;
+        cursor: pointer;
+    }
+
+    .work-section-wrapper{
+        margin-top: 5rem !important;
+    }
+    
+    .work-section-botton{
+        margin-top: 1rem !important;
+    }
+
+    /* FOOTER */
+
+    .footer-wrapper{
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+    }
+
+    .footer-section-two{
+        flex-direction: column;
+    }
+
+    .footer-section-columns{
+        margin: 1rem 0;
+
+        .App{
+            max-width: 95vw;
+        }
+
+    }
+}
