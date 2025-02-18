@@ -1,5 +1,5 @@
 import { AiFillStar } from 'react-icons/ai';
-import ProfilePic from '../Assets/john-doe-image.png'
+import ProfilePic from '../assets/john-doe-image.png'
 
 export default function Testemonial() {
     return (
